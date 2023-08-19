@@ -1,1 +1,2 @@
-
+rk = 'asdfsdf'
+print (rk[3:5+1])
